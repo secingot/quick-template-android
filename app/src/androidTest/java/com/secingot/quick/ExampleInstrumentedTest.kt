@@ -1,4 +1,4 @@
-package com.secingot.quick_template
+package com.secingot.quick
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

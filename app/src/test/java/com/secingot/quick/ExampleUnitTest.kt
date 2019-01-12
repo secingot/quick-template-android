@@ -1,4 +1,4 @@
-package com.secingot.quick_template
+package com.secingot.quick
 
 import org.junit.Test
 

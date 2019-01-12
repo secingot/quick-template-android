@@ -1,4 +1,4 @@
-package com.secingot.quick_template
+package com.secingot.quick
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
