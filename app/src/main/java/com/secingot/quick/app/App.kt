@@ -11,7 +11,7 @@ import android.app.Application
 class App : Application() {
 
     companion object {
-        private lateinit var app: App
+        @Volatile private lateinit var app: App
 
         fun get(): App {
             return app
